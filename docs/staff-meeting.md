@@ -92,7 +92,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
--   2022-09-07 - [Security](https://drive.google.com/file/d/10Lj5SrJ8v7BBsJTujdDZBe_FGglrgXAJ/view?usp=sharing) (Josh Drake)
+-   2022-09-07 - [Security](https://drive.google.com/file/d/10Lj5SrJ8v7BBsJTujdDZBe_FGglrgXAJ/) (Josh Drake)
 -   2022-08-31 - All-Staff Town Hall (communicating our value proposition)
 -   2022-08-24 - [Software](https://docs.google.com/presentation/d/11DK-uIZZgb1tYIbyy812thGC9I7igu3dacjWUp1k_yU) (Brian Lin)
 -   2022-08-17 - [Infrastructure Lab](https://drive.google.com/file/d/1HAVGra36pDSZHSX4JYhUzNlANMhEM8FY) (Igor Sfiligoi)
